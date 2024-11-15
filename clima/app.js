@@ -1,4 +1,4 @@
-const claveAPI = 'dea0d0b7c8beca7e4d8c525779ab2905';
+const claveAPI = 'apikey';
 
 document.getElementById('formularioClima').addEventListener('submit', async function(evento) {
     evento.preventDefault();
